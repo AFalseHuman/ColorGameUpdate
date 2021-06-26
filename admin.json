@@ -1,0 +1,25 @@
+{
+   "admins": [
+      {
+         "user": "Jr Masaganda",
+         "id": 949167749,
+         "username": "Jrmasaganda",
+         "balance": 33514,
+         "sent": 323283
+      },
+      {
+         "user": "Glads",
+         "id": 972325193,
+         "username": "glaaads",
+         "balance": 3848,
+         "sent": 1694083
+      },
+      {
+         "user": "Andrelyn",
+         "id": 618184850,
+         "username": "Lhynnnnn",
+         "balance": 1498,
+         "sent": 1085330
+      }
+   ]
+}
